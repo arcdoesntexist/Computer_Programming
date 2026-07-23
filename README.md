@@ -1,5 +1,4 @@
 
-```markdown
 # C Programming Exercises & Coursework
 
 A collection of C programming exercises, practice programs, and chapter assignments.
